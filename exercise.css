@@ -1,0 +1,48 @@
+h1 {
+    text-transform: uppercase;
+    color: white;
+    margin: 1%;
+    padding-left: 20px;
+    font-family: 'oleo script';
+    padding: 2px;
+}
+header  {
+    background-color: black;
+    padding: px;
+ 
+    display: flex;
+    flex-direction: row;
+ justify-content: space-between;
+ align-items: center;
+}
+ 
+}
+header ul li a{color: white;
+
+    background-color:;
+    padding: 10px;
+    margin-right: 40px;
+    font-family:'fira sans';
+border-radius: 5px;
+text-decoration: none;
+
+}
+img{
+padding: 30px;
+    height: 200px;
+    width: 200px;
+}
+body{
+    text-align: left;
+
+    text-decoration: none;
+    color: white;
+    background-color: white;
+    background-image: url("body.jpg");
+}
+#exercise ul li a{
+    color: white;
+    font-size: 50px;
+    text-decoration: none;
+
+}
